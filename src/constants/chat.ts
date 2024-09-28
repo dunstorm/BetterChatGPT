@@ -36,7 +36,7 @@ export const modelOptions: ModelOptions[] = [
   'o1-mini-2024-09-12',
 ];
 
-export const defaultModel = 'o1-mini';
+export const defaultModel = 'gpt-4o-mini';
 
 export const modelMaxToken = {
   'gpt-3.5-turbo': 4096,
